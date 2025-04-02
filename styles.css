@@ -1,1 +1,19 @@
 /*  your css code here. If applicable */
+form{
+display:flex;
+flex-direction:column;
+justify-content:center;
+align-items:center;
+}
+#age{
+width:30%;
+margin:5px;
+}
+#name{
+width:30%;
+margin:5px;
+}
+#btn{
+height:20px;
+width:70px;
+}
